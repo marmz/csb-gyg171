@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://marmz.github.io/csb-gyg171/static/css/main.b835f712.chunk.css",
+    "main.js": "https://marmz.github.io/csb-gyg171/static/js/main.6c2e533f.chunk.js",
+    "main.js.map": "https://marmz.github.io/csb-gyg171/static/js/main.6c2e533f.chunk.js.map",
+    "runtime~main.js": "https://marmz.github.io/csb-gyg171/static/js/runtime~main.3a1dac6e.js",
+    "runtime~main.js.map": "https://marmz.github.io/csb-gyg171/static/js/runtime~main.3a1dac6e.js.map",
+    "static/js/2.c6b0e5d5.chunk.js": "https://marmz.github.io/csb-gyg171/static/js/2.c6b0e5d5.chunk.js",
+    "static/js/2.c6b0e5d5.chunk.js.map": "https://marmz.github.io/csb-gyg171/static/js/2.c6b0e5d5.chunk.js.map",
+    "index.html": "https://marmz.github.io/csb-gyg171/index.html",
+    "precache-manifest.4c3d5ff7c306cc0689c6efeea498c15f.js": "https://marmz.github.io/csb-gyg171/precache-manifest.4c3d5ff7c306cc0689c6efeea498c15f.js",
+    "service-worker.js": "https://marmz.github.io/csb-gyg171/service-worker.js",
+    "static/css/main.b835f712.chunk.css.map": "https://marmz.github.io/csb-gyg171/static/css/main.b835f712.chunk.css.map"
+  }
+}
